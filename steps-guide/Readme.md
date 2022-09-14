@@ -167,3 +167,10 @@ export default class Users extends React.Component<IPROPS>{
     }
 }
 ```
+
+
+---------------------
+
+----Handling State with react typescript-----
+
+8 event handling
