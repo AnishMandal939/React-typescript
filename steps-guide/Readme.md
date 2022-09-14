@@ -172,5 +172,17 @@ export default class Users extends React.Component<IPROPS>{
 ---------------------
 
 ----Handling State with react typescript-----
+on both class based component and functional component
 
-8 event handling
+--------------------------
+
+-------8 event handling------
+
+Counter.tsx 
+
+
+--------------------------
+
+------ 9 - Function with parameters in React typescript ----
+
+

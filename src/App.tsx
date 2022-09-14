@@ -1,4 +1,5 @@
 import './App.css';
+import Counter from './components/Counter';
 import CustomerClassic, { Cust, Customer } from './components/Customer';
 import Users from './components/Users';
 
@@ -16,6 +17,11 @@ function App() {
             <Users userId={1} username="admin" />
           </div>
         </div>
+      </div>
+
+      <h5>Counter</h5>
+      <div className="col-md-9 bg-warning">
+        <Counter />
       </div>
     </>    
   );
